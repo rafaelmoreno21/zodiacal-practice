@@ -1,4 +1,4 @@
-# proyecto-carta
+# zodiacal-practice
 
 > My funkadelic Nuxt.js project
 
